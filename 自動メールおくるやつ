@@ -42,7 +42,7 @@ function getCompanyName() {　　　　　　　　　　　　　　　　　�
   }  
 };
 
-function mailBody() {　　　　　　　　　　　　　　　　　　　　　　　　　　　　//メール本文
+function mailBody() {　　　　　　　　　　　　　//メール本文
 
   const recipient = ['メールアドレス']; 　 
   const subject = '件名';
